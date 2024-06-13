@@ -1,3 +1,3 @@
 # github-ci-cd
 
-#I think this si going to work now
+Learnt and implemented github ci-cd by hosting small node js backend on aws.
